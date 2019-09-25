@@ -62,7 +62,7 @@ https://programmers.co.kr/learn/challenges
 | ------------- |:-------------:|
 | [탑](https://programmers.co.kr/learn/courses/30/lessons/42588) | |
 | [스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993) | |
-| [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) | |
+| [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) | [py](124_나라의_숫자.py)
 | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) | |
 | [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) | |
 | [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) | |
