@@ -25,7 +25,7 @@ https://programmers.co.kr/learn/challenges
 | [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) | |
 | [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) | |
 | [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) | |
-| [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901) | |
+| [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901) | [py](2016년.py)
 | [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903) | |
 | [같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906) | |
 | [나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910) | |
