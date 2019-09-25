@@ -24,9 +24,9 @@ https://programmers.co.kr/learn/challenges
 | [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) | |
 | [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) | |
 | [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) | |
-| [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) | |
+| [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) | [py](K번째수.py)
 | [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901) | [py](2016년.py)
-| [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903) | |
+| [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903) | [py](가운데_글자_가져오기.py)
 | [같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906) | |
 | [나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910) | |
 | [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912) | |
@@ -53,7 +53,7 @@ https://programmers.co.kr/learn/challenges
 | [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12940) |
 | [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12941) |
 | [행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12942) |
-| [x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12943) |
+| [x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12943) | [py](x만큼_간격이_있는_n개의_숫자.py)
 | [직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12944) |
 | [예산](https://programmers.co.kr/learn/courses/30/lessons/12945) |
 
