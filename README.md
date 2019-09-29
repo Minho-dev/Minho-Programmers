@@ -32,7 +32,7 @@ https://programmers.co.kr/learn/challenges
 | [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912) | [py](두_정수_사이의_합.py)
 | [문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915) | [py](문자열_내_마음대로_정렬하기.py)
 | [문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916) | [py](문자열_내_p와_y의_개수.py)
-| [문자열 내림차순으로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12917) | [py](문자열_내림차순으로_정렬하기.py)
+| [문자열 내림차순으로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12917) | [py](문자열_내림차순으로_배치하기.py)
 | [문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918) | [py](문자열_다루기_기본.py)
 | [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919) | 
 | [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921) | 
