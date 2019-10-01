@@ -34,10 +34,10 @@ https://programmers.co.kr/learn/challenges
 | [문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916) | [py](문자열_내_p와_y의_개수.py)
 | [문자열 내림차순으로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12917) | [py](문자열_내림차순으로_배치하기.py)
 | [문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918) | [py](문자열_다루기_기본.py)
-| [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919) | 
+| [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919) | [py](서울에서_김서방_찾기.py)
 | [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921) | 
-| [수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922) | 
-| [문자열을 정수로 바꾸기](https://programmers.co.kr/learn/courses/30/lessons/12925) | 
+| [수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922) | [py](수박수박수박수박수박수.py)
+| [문자열을 정수로 바꾸기](https://programmers.co.kr/learn/courses/30/lessons/12925) | [py](문자열을_정수로_바꾸기.py)
 | [시저암호](https://programmers.co.kr/learn/courses/30/lessons/12926) | 
 | [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928) | 
 | [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930) | 
