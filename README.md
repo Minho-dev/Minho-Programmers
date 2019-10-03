@@ -38,8 +38,8 @@ https://programmers.co.kr/learn/challenges
 | [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921) | 
 | [수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922) | [py](수박수박수박수박수박수.py)
 | [문자열을 정수로 바꾸기](https://programmers.co.kr/learn/courses/30/lessons/12925) | [py](문자열을_정수로_바꾸기.py)
-| [시저암호](https://programmers.co.kr/learn/courses/30/lessons/12926) | 
-| [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928) | 
+| [시저암호](https://programmers.co.kr/learn/courses/30/lessons/12926) | [py](시저암호.py)
+| [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928) | [py](약수의_합.py)
 | [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930) | 
 | [자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931) | 
 | [자연수 뒤집어 배열로 만들기](https://programmers.co.kr/learn/courses/30/lessons/12932) |
