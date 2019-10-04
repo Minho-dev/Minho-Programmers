@@ -55,7 +55,7 @@ https://programmers.co.kr/learn/challenges
 | [행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12942) |
 | [x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12943) | [py](x만큼_간격이_있는_n개의_숫자.py)
 | [직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12944) |
-| [예산](https://programmers.co.kr/learn/courses/30/lessons/12945) | [py](.py)
+| [예산](https://programmers.co.kr/learn/courses/30/lessons/12945) | [py](예산.py)
 
 ## Level 2
 | 문제 | 코드 |
