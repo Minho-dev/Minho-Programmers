@@ -40,7 +40,7 @@ https://programmers.co.kr/learn/challenges
 | [문자열을 정수로 바꾸기](https://programmers.co.kr/learn/courses/30/lessons/12925) | [py](문자열을_정수로_바꾸기.py)
 | [시저암호](https://programmers.co.kr/learn/courses/30/lessons/12926) | [py](시저암호.py)
 | [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928) | [py](약수의_합.py)
-| [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930) | 
+| [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930) | [py](이상한_문자_만들기.py)
 | [자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931) | 
 | [자연수 뒤집어 배열로 만들기](https://programmers.co.kr/learn/courses/30/lessons/12932) |
 | [정수 내림차수으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933) |
@@ -55,7 +55,7 @@ https://programmers.co.kr/learn/challenges
 | [행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12942) |
 | [x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12943) | [py](x만큼_간격이_있는_n개의_숫자.py)
 | [직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12944) |
-| [예산](https://programmers.co.kr/learn/courses/30/lessons/12945) |
+| [예산](https://programmers.co.kr/learn/courses/30/lessons/12945) | [py](.py)
 
 ## Level 2
 | 문제 | 코드 |
