@@ -42,7 +42,7 @@ https://programmers.co.kr/learn/challenges
 | [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928) | [py](약수의_합.py)
 | [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930) | [py](이상한_문자_만들기.py)
 | [자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931) | [py](자릿수_더하기.py)
-| [자연수 뒤집어 배열로 만들기](https://programmers.co.kr/learn/courses/30/lessons/12932) | [py](자연수_뒤집어_배열로_만들기.py)
+| [자연수 뒤집어 배열로 만들기](https://programmers.co.kr/learn/courses/30/lessons/12932) | [py](자연수_뒤집어_배열로.py)
 | [정수 내림차수으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933) | [py](정수_내림차순으로_배치하기.py)
 | [정수 제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934) | [py](정수_제곱근_판별.py)
 | [제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935) |
